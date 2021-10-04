@@ -1,4 +1,4 @@
-### UCD Computer Science with Data Science 3rd Year
+### UCD Computer Science with Data Science 4rd Year
 
 My name is Eoghan McGlinchey, I'm a third year student in UCD studying Computer Science with Data Science and am very interested in data science and analytics as well as machine learning. I am also an avid Gaelic football player and a former basketball player.
 
